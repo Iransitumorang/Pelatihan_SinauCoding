@@ -1,0 +1,71 @@
+body {
+    margin: 5vw;
+    border: 3px solid black;
+}
+
+header {
+    padding-left: 3vw;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: antiquewhite;
+}
+
+.menu {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.listMenu {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.garis {
+    margin: auto 5px;
+    font-weight: bolder;
+}
+
+.aurora {
+    width: 196vh;
+    height: 50vh;
+    margin-bottom: -4px;
+}
+
+.main {
+    display: flex;
+    margin-left: 3vw;
+}
+
+.topic {
+    margin-bottom: -4px;
+}
+
+.leftText {
+    padding-right: 2vw;
+}
+
+.rightText {
+    padding-right: 2vw;
+    padding-left: 2vh;
+    border-left: 3px solid black;
+}
+
+.user {
+    float: left;
+}
+
+footer {
+    background-color: #181818;
+    color: #F9F9F9;
+    text-align: center;
+    height: 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
